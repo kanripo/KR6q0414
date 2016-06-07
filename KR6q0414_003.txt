@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:51:35.063676
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:37
 #+TITLE: 隱元禪師語錄
 #+PROPERTY: CBETA_ID J27nB193
 #+PROPERTY: ID KR6q0414
